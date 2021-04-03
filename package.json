@@ -18,6 +18,7 @@
     "v-infinite-scroll": "^1.0.4",
     "vue-gallery": "^2.0.1",
     "vue-infinite-loading": "^2.4.5",
+    "vue-infinite-scroll": "^2.0.2",
     "vue-scroll-loader": "^2.2.0"
   },
   "devDependencies": {
